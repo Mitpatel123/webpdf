@@ -1,0 +1,28 @@
+{
+  "db_url": "mongodb+srv://mit:7NPfHJsHK3Z7o8WI@mit.fsaq7gz.mongodb.net/ILOVEPDF",
+  "jwt_token_secret": "ilove_pdf_jwt_token_secret",
+  "refresh_jwt_token_secret": "ilove_pdf_refresh_jwt_token_secret",
+  "Winston": {
+    "level": "info"
+  },
+  "nodeMail": {
+    "mail": "patrampublication@gmail.com",
+    "password": "cxvqpepoyrkvhofy",
+    "service": "gmail"
+  },
+  "timeZone": "xxxxxxxxxxxxxxxxxxxxxxxx",
+  "aws": {
+    "accessKeyId": "AKIAQCU44H5QTWYPKKUD",
+    "secretAccessKey": "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",
+    "region": "ap-south-1",
+    "bucket_name": "ilovepdf"
+  },
+  "forgotPaasword": {
+    "algorithm": "aes-256-cbc",
+    "secretKey":"SecretKey123"
+  },
+  "fcmKey": "",
+  "logo": "",
+  "reset_url": ""
+  
+}
